@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+#mainHyundaicard{
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    max-width: 1000px;
+    margin: 221px auto 0 auto;
+    background: #c99;
+}
+#mainHyundaicard #section1{
+    width: 100%;
+    position: relative;
+}
+#mainHyundaicard #section1 > img{
+    width: 100%;
+    z-index: 1;
+    position: relative;
+}
+#mainHyundaicard #section1 span{
+    max-width: 430px;
+    width: 100%;
+    position: absolute;
+    right: 50px;
+    top: 465px;
+    z-index: 2;
+}
+#mainHyundaicard #section1 span img{
+    max-width: 430px;
+}
+#mainHyundaicard #section2{
+    position: relative;
+    width: 100%;
+}
+#mainHyundaicard #section2 > img{
+    position: relative;
+    width: 100%;
+}
+#mainHyundaicard #section2 span{
+    max-width: 224px;
+    width: 100%;
+    position: absolute;
+    left: 50%;
+    top: 615px;
+    z-index: 2;
+    margin: 0 0 0 -112px;
+}
+#mainHyundaicard #section2 span img{
+ width: 100%;
+}
+#mainHyundaicard #section2 .event01-box {
+    width:100%;
+}
+#mainHyundaicard #section2 .event01-box a {
+    display:block;
+}
+#mainHyundaicard #section2 .event01-box .list-event01 {
+    width:100%;display:none;
+}
+#mainHyundaicard #section2 .event01-box .list-event01 img {
+    width:100%;
+}
+
+
+
+#mainHyundaicard #section3{
+
+}
+#mainHyundaicard #section4{
+
+}
+#mainHyundaicard #section5{
+
+}
